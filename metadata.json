@@ -1,0 +1,8 @@
+{
+  "name": "FleetFlow - Admin, Supervisor & Driver Management",
+  "description": "A comprehensive multi-role fleet management system for coordinating jobs, vehicles, and assignments with real-time status updates.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
